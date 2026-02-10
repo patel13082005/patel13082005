@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hey there, I'm Nisarg!
 
-<!--
-**patel13082005/patel13082005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineering Student** | 🌍 **India**  
+💻 **Full-Stack Web Developer** | 🚀 Tech Explorer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+I’m a **Full-Stack Web Developer** who loves working with computers and exploring **modern technologies**.  
+I enjoy building **clean, practical, and user-focused** web applications.
+
+---
+
+## 🛠️ Tech Stack
+**Frontend**
+- HTML • CSS  
+- JavaScript • TypeScript  
+- React • Next.js • Tailwind CSS  
+
+**Backend**
+- Node.js  
+- Java  
+
+**Database**
+- MongoDB  
+
+---
+
+## 🧰 Tools & Workflow
+- VS Code  
+- Git *(basic)*  
+- GitHub  
+
+---
+
+## 📌 Featured Project
+✨ **Academic Event Report Generator**  
+A project designed to simplify and automate academic report creation.
+
+---
+
+## 🎯 Fun Facts
+- Curious learner who loves new things 🧠  
+- Enjoys virtual games 🎮, reading books 📚, and listening to music 🎧  
+
+---
+
+🌐 **Portfolio:** _Coming soon…_
