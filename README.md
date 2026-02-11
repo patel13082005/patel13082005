@@ -45,4 +45,3 @@ A project designed to simplify and automate academic report creation.
 
 ---
 
-🌐 **Portfolio:** _Coming soon…_
